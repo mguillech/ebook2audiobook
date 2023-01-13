@@ -27,13 +27,13 @@ This plugin for Calibre allows users to convert their e-books to audiobooks. The
 
 **Note**
 
-This plugin is based on the [https://www.mobileread.com/forums/showthread.php?t=299727](TTS To MP3 Plugin).
+This plugin is based on the [TTS To MP3 Plugin](https://www.mobileread.com/forums/showthread.php?t=299727).
 
 **Contribution**
 
-If you have any issues or feature requests, please open an issue on the [https://github.com/mguillech/ebook2audiobook/issues](GitHub repository).
-If you wish to contribute to the development of this plugin, please feel free to submit a pull request to the [https://github.com/mguillech/ebook2audiobook/pulls](GitHub repository).
+If you have any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/mguillech/ebook2audiobook/issues).
+If you wish to contribute to the development of this plugin, please feel free to submit a pull request to the [GitHub repository](https://github.com/mguillech/ebook2audiobook/pulls).
 
 **Support**
 
-If you have any questions or need help with this plugin, please open an issue on the [https://github.com/mguillech/ebook2audiobook/issues](GitHub repository).
+If you have any questions or need help with this plugin, please open an issue on the [GitHub repository](https://github.com/mguillech/ebook2audiobook/issues).
